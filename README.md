@@ -1,7 +1,7 @@
 # To-Do-List
 A to-do list website built using HTML, CSS, and JavaScript allows users to create, manage, and track tasks in a simple and interactive way.
 
-###### HTML:
+##### HTML:
 Provides the structure of the page, including input fields for tasks, buttons to add or delete tasks, and a list to display tasks.
 
 ##### CSS:
